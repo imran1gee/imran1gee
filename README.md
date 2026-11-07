@@ -1,3 +1,4 @@
+<img width="1392" height="207" alt="IMG" src="https://github.com/user-attachments/assets/bcf3755c-c370-4cbf-b5d4-c9b20c211bce" />
 # Muhammad Imran, PhD
 
 ### Computational Physicist | Scientific Computing | Medical Physics | Numerical Modeling
