@@ -2,11 +2,13 @@
 
 ### Computational Physicist | Scientific Computing | Medical Physics | Numerical Modeling
 
-I am a computational physicist with a **PhD in Physics from the University of Florida**, extensive postdoctoral research experience, and specialized training in medical physics.
+Computational physicist with a **PhD in Physics from the University of Florida**, extensive postdoctoral research experience, and specialized training in medical physics.
 
-My background combines **theoretical and computational condensed matter physics, quantum transport, electromagnetic modeling, numerical simulation, and medical imaging physics**. I have developed and applied computational methods to investigate complex physical systems, analyze scientific data, and evaluate imaging equipment performance.
+My expertise spans **computational condensed matter physics, quantum transport, electromagnetic modeling, numerical simulation, and scientific software development**. I have applied advanced computational methods to investigate complex physical systems, develop numerical models, and analyze scientific data.
 
-My research experience includes work at **Ames National Laboratory**, with publications in *Physical Review B*, *Optics Express*, *Journal of Physics: Condensed Matter*, and *Instruments*.
+My research experience includes **Ames National Laboratory**, with peer-reviewed publications in *Physical Review B*, *Optics Express*, *Journal of Physics: Condensed Matter*, and *Instruments*.
+
+My medical physics background includes radiation dosimetry, equipment quality control, and foundational radiation therapy treatment planning, including Eclipse TPS and IMRT concepts.
 
 ## Technical Expertise
 
