@@ -6,7 +6,7 @@ Computational physicist with a **PhD in Physics from the University of Florida**
 
 My expertise spans **computational condensed matter physics, quantum transport, electromagnetic modeling, numerical simulation, and scientific software development**. I have applied advanced computational methods to investigate complex physical systems, develop numerical models, and analyze scientific data.
 
-My research experience includes **Ames National Laboratory**, with peer-reviewed publications in *Physical Review B*, *Optics Express*, *Journal of Physics: Condensed Matter*, and *Instruments*.
+My research experience includes **Ames National Laboratory**, **Iowa State University**, and **University of Nevada, Reno**, with peer-reviewed publications in *Physical Review B*, *Optics Express*, *Journal of Physics: Condensed Matter*, and *Instruments*.
 
 My medical physics background includes radiation dosimetry, equipment quality control, and foundational radiation therapy treatment planning, including Eclipse TPS and IMRT concepts.
 
