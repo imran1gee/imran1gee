@@ -22,11 +22,8 @@ My research experience includes work at **Ames National Laboratory**, with publi
 - Parallel computing and high-performance numerical workflows
 - Numerical integration, parameter sweeps, and simulation automation
 
-**Medical Physics & Imaging Technology**
-- Diagnostic radiology physics and medical imaging systems
-- X-ray radiography, fluoroscopy, CT, MRI, PET/CT, and SPECT/CT
-- Imaging equipment quality control and performance evaluation
-- Radiation dosimetry, image quality assessment, and detector characterization
+**Medical Physics &  Technology**
+- Radiation dosimetry, quality assessment, and detector characterization
 - Monte Carlo radiation dose simulations
 - Radiation therapy planning fundamentals, including Eclipse TPS, organ-at-risk contouring, and IMRT concepts
 
